@@ -40,16 +40,6 @@ I'm **Shaikh Rizwanuddin**, a **B.Tech Computer Science & Engineering student** 
 
 ---
 
-## 🎓 Education
-
-| Qualification | Institution | Status |
-|---|---|---|
-| **B.Tech — Computer Science & Engineering** | Shreeyash College of Engineering & Technology, Aurangabad | **2025–2028 · Pursuing** |
-| **Diploma — Information Technology** | Government Polytechnic, Nanded | **Completed** |
-| **SSC** | Model English School (Sharda), Parbhani | **Completed** |
-
----
-
 ## 🚀 Featured Project
 
 ### 🌱 AgriSpray AI — AI-Powered Targeted Crop Spraying
